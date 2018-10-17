@@ -53,4 +53,14 @@
     </subquestion>
     <shuffleanswers>true</shuffleanswers>
   </question>
+  <question type="truefalse">
+    <answer fraction="100">
+      <text>true</text>
+      <feedback><text>Correct!</text></feedback>
+    </answer>
+    <answer fraction="0">
+      <text>false</text>
+      <feedback><text>Oooops!</text></feedback>
+    </answer>
+  </question>
 </quiz>
